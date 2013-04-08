@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NIGHTOWL_DEV</Machine>
+    <WindowsUser>Minh</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\bin\Debug\MicroIdeas.exe">
+      <PackagePath>MicroIdeas.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\bin\Debug\MicroIdeas.pdb">
+      <PackagePath>MicroIdeas.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MobileServicesManagedClient\0.2.0.0\References\CommonConfiguration\neutral\Microsoft.WindowsAzure.MobileServices.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.MobileServices.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\bin\Debug\Splash.xaml">
+      <PackagePath>Splash.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\bin\Debug\Views\IdeaView.xaml">
+      <PackagePath>Views\IdeaView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\minh\documents\visual studio 2012\Projects\MicroIdeas\MicroIdeas\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
